@@ -1,0 +1,21 @@
+	install tool 
+
+1- pkg install python
+2- pkg install git
+3- git clone " https:// "طبارلا "
+y
+        #Run
+   - after install -
+
+1- cd writesms
+2- python sendsms.py
+
+       # working      
+
+1- + intrnational
+   - Enter
+2- Nummber phone
+   - Enter
+3- write sms
+   - Enter
+#thank you to read
